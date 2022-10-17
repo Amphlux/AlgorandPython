@@ -3,7 +3,6 @@
 #you can search anywhere in the address, the front or the back of the address
 #inspired by https://algovanity.com/
 
-#run first, must be run
 #import the relevant packages from AlgoSDK
 from algosdk import account, mnemonic
 

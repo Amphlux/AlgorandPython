@@ -1,0 +1,18 @@
+{
+  "search_terms": [
+    {
+      "position": "F",
+      "term": "EXAMPLE",
+      "digits": 7,
+      "exclude_last": false
+    },
+    {
+      "position": "FB",
+      "front_term": "FRONT",
+      "front_digits": 5,
+      "back_term": "BACK",
+      "back_digits": 4,
+      "exclude_last": false
+    }
+  ]
+}
